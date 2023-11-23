@@ -1,0 +1,61 @@
+/* {
+  box-sizing: border-box;
+}
+html {
+  padding: 0;
+  margin: 0;
+  font-size: 2vw;
+}
+#allpage {
+  display: flex;
+  flex-direction: row;
+}*/
+body {
+  background-color: blueviolet;
+  font-family: sans-serif;
+}
+img.MyFOTO {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.info h1 {
+  background-color: transparent;
+  color: white;
+  width: fit-content;
+  margin-left: 25px;
+  padding: 5px;
+  font-size: 20px;
+}
+.education {
+  background-color: bisque;
+}
+.work {
+  background-color: bisque;
+}
+
+.divs {
+  background-color: transparent;
+  font-size: 23px;
+  color: aliceblue;
+  padding: 10px;
+  margin: 10px;
+}
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  background-color: blueviolet;
+}
+a {
+  color: white;
+}
+footer {
+  color: white;
+  font-size: 20px;
+}
+section {
+  display: flex;
+}
